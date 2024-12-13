@@ -1,0 +1,6 @@
+names:
+- Cube
+nc: 1
+test: /kaggle/working/task1-yolov10/test/images
+train: /kaggle/working/task1-yolov10/train/images
+val: /kaggle/working/task1-yolov10/val/images
